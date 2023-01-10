@@ -48,4 +48,12 @@ Live EDA Feature Engineering Playlist: https://www.youtube.com/watch?v=bTN-6VPe8
 1. Mongodb: https://www.youtube.com/watch?v=magzEfYqIos&list=PLZoTAELRMXVN_8zzsevm1bm6G-plsiO1I
 2. Mysql:https://www.youtube.com/watch?v=us1XyayQ6fU&list=PLZoTAELRMXVNMRWlVf0bDDSxNEn38u9Cl
 
+## ETL Tools
+![infa-social-share-2022](https://user-images.githubusercontent.com/20041231/211472581-3b05b5d7-2d76-4002-835a-172cada11672.png)
+
+Amazing Article on ETL: https://www.informatica.com/resources/articles/what-is-etl.html
+
+![Capture](https://user-images.githubusercontent.com/20041231/211473712-f8737fd4-0622-49de-b751-706322813b31.JPG)
+
+FSDA 2.0: https://ineuron.ai/course/Full-Stack-Data-Analytics-2.0
 
