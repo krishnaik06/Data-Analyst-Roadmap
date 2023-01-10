@@ -4,6 +4,9 @@
 
 ![Capture](https://user-images.githubusercontent.com/20041231/211466839-e0145119-20fd-4efe-bbd7-d2c3b10fdfba.JPG)
 
+![Capture](https://user-images.githubusercontent.com/20041231/211468652-d4316856-0ee5-44ea-9dd9-538beef38180.JPG)
+
+
 ## 1. Programming Language
 ### Python 
 ![Python-Symbol](https://user-images.githubusercontent.com/20041231/211466229-df1c12da-ed6e-4bb9-97f7-84871a287580.png)
