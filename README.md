@@ -57,3 +57,23 @@ Amazing Article on ETL: https://www.informatica.com/resources/articles/what-is-e
 
 FSDA 2.0: https://ineuron.ai/course/Full-Stack-Data-Analytics-2.0
 
+Top ETL Tools: https://www.integrate.io/blog/top-7-etl-tools/
+
+## Business Intelligence Tools
+
+![maxresdefaultreduced](https://user-images.githubusercontent.com/20041231/211717386-39f75daf-0c1e-4295-8e00-657578f397a1.jpg)
+
+![Tableau-logo](https://user-images.githubusercontent.com/20041231/211717508-ccd3da44-1e33-47c0-a1ec-66583f73c496.jpg)
+
+## Advanced Excel
+![png-clipart-microsoft-excel-app-store-spreadsheet-microsoft-text-logo](https://user-images.githubusercontent.com/20041231/211717601-a7520e3b-bd50-4cbd-957a-8ff2bbce25b3.png)
+
+## Real Time Internships
+https://internship.ineuron.ai/
+
+## Best Affordable Data Science Course From Pwskills(6-7 Months)
+
+Impact Batch:- Data-Science-Masters (Full Stack Data Science)
+1. Data Science Masters Hindi: https://pwskills.com/course/Data-Science-masters (Hindi)
+2. Data Science Masters English: https://pwskills.com/course/Data-Science-Masters (English)
+Visit : https://pwskills.com
