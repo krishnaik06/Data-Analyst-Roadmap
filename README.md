@@ -69,6 +69,8 @@ Top ETL Tools: https://www.integrate.io/blog/top-7-etl-tools/
 ![png-clipart-microsoft-excel-app-store-spreadsheet-microsoft-text-logo](https://user-images.githubusercontent.com/20041231/211717601-a7520e3b-bd50-4cbd-957a-8ff2bbce25b3.png)
 
 ## Real Time Internships
+![Red White Modern Youtube Thumbnail (2)](https://user-images.githubusercontent.com/20041231/211743026-4f3da97c-897b-4d10-acea-503591ca935d.jpg)
+
 https://internship.ineuron.ai/
 
 ## Best Affordable Data Science Course From Pwskills(6-7 Months)
