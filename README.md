@@ -76,6 +76,6 @@ https://internship.ineuron.ai/
 ## Best Affordable Data Science Course From Pwskills(6-7 Months)
 
 Impact Batch:- Data-Science-Masters (Full Stack Data Science)
-1. Data Science Masters Hindi: https://pwskills.com/course/Data-Science-masters (Hindi)
-2. Data Science Masters English: https://pwskills.com/course/Data-Science-Masters (English)
-Visit : https://pwskills.com
+1. Data Science Masters Hindi: https://bit.ly/3CKX1od (Hindi)
+2. Data Science Masters English: https://bit.ly/3iEjWuH (English)
+
