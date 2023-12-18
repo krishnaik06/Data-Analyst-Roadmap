@@ -1,5 +1,8 @@
 # Data Analyst RoadMap
 
+
+Data is the new oil. THe current repositroy offers a good map to prepare you for jobs.
+
 ## Work Of Data Analyst
 
 ![Capture](https://user-images.githubusercontent.com/20041231/211466839-e0145119-20fd-4efe-bbd7-d2c3b10fdfba.JPG)
